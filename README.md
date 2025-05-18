@@ -1,6 +1,6 @@
 # Sales-Analysis 
 
-
+<img src="Sales Dashboard Screenshot.png">
 
 This Power BI project explores key insights from a fictional retail dataset to support business decision-making across sales performance, customer behavior, and product profitability.
 
