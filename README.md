@@ -14,7 +14,7 @@ The dashboard visualizes sales data across multiple dimensions, answering core b
 - How do payment methods influence sales averages?
 - How do branches differ in product profitability?
 
-## Dashboard Screenshot
+[**Visualizations PDF**](https://github.com/Mujeeby/Sales-Analysis/blob/47135bdb18967b036caf66e5e1d430839522eaf5/Sales%20Insight%20Analysis.pdf)
 
 
 ## Key Insights
